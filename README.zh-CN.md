@@ -11,3 +11,8 @@
 
 ## 下载
 *   [下载适用于 macOS 的最新版本 (YTubeDeck.dmg)](./YTubeDeck.dmg)
+
+## 截图
+| 首页 | 设置 |
+|:---:|:---:|
+| ![首页](./screenshot/home_cn.png) | ![设置](./screenshot/setting_cn.png) |
