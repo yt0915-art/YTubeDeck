@@ -11,3 +11,8 @@
 
 ## Download
 *   [Download the latest version for macOS (YTubeDeck.dmg)](./YTubeDeck.dmg)
+
+## Screenshots
+| Home | Setting |
+|:---:|:---:|
+| ![Home](./screenshot/home_en.png) | ![Setting](./screenshot/setting_en.png) |
